@@ -1,0 +1,189 @@
+*{font-family: 'Inter', sans-serif}
+
+.header{
+    position: absolute;
+    width: 1240px;
+    height: 99px;
+    left: 0px;
+    top: 0px;
+    background: rgba(1, 33, 105, 0.08);
+}
+
+#Categorias{
+    position: absolute;
+    width: 77.27px;
+    height: 18px;
+    left: 259px;
+    top: 40px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    text-decoration: none;
+    color: #012169;
+    
+}
+
+#ParaProfissionais{
+    position: absolute;
+    width: 131.16px;
+    height: 14px;
+    left: 372px;
+    top: 40px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    text-decoration: none;
+    color: #012169;
+}
+
+#ComoFunciona{
+    position: absolute;
+    width: 111.84px;
+    height: 17px;
+    left: 531px;
+    top: 40px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    text-decoration: none;
+    color: #012169;
+}
+
+#Suporte{
+    position: absolute;
+    width: 59.99px;
+    height: 14px;
+    left: 670px;
+    top: 40px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    text-decoration: none;
+    color: #012169;
+}
+
+#SobreNos{
+    position: absolute;
+    width: 145.39px;
+    height: 11px;
+    left: 783px;
+    top: 40px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    text-decoration: none;
+    color: #012169;
+}
+
+#CriarConta {
+    position: absolute;
+    width: 88px;
+    height: 19px;
+    left: 964px;
+    top: 41px;
+
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 19px;
+    text-decoration: none;
+    color: #012169;
+
+}
+
+#Entrar {
+    position: absolute;
+    width: 61px;
+    height: 24px;
+    left: 1106px;
+    top: 37px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #FFFFFF;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    position: absolute;
+    width: 127px;
+    height: 53px;
+    left: 1073px;
+    top: 23px;
+    text-decoration: none;
+    background: #012169;
+    border-radius: 8px;
+}
+
+.logo {
+   /* position: absolute;
+    width: 111px;
+    height: 77px;
+    left: 43px;
+    top: 10px;
+
+    background: url(20220427_221713.png); */
+    margin-left: 90px;
+    margin-top: -12px;
+}
+
+h1 {
+    position: absolute;
+    width: 181px;
+    height: 44px;
+    left: 145px;
+    top: 192px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 44px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+    
+}
+p{
+
+    position: absolute;
+    width: 396px;
+    height: 276px;
+    left: 95px;
+    top: 266px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: justify;
+
+    color: #000000;
+}
+
+.imagem {
+    position: absolute;
+    width: 643.69px;
+    height: 388px;
+    left: 511px;
+    top: 365px;
+}
