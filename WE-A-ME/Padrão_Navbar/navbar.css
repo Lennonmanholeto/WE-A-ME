@@ -1,8 +1,17 @@
-*{font-family: 'Inter', sans-serif}
+*{
+    font-family: 'Inter', sans-serif;
+    margin:0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-weight: normal;
+    border:none
+}
 
 .header{
     position: absolute;
-    width: 1240px;
+    width: 100%;
     height: 99px;
     left: 0px;
     top: 0px;
@@ -11,9 +20,8 @@
 
 #Categorias{
     position: absolute;
-    width: 77.27px;
-    height: 18px;
-    left: 259px;
+    height: 14px;
+    left: 275px;
     top: 40px;
     
     font-family: 'Inter';
@@ -28,9 +36,8 @@
 
 #ParaProfissionais{
     position: absolute;
-    width: 131.16px;
     height: 14px;
-    left: 372px;
+    left: 405px;
     top: 40px;
 
     font-family: 'Inter';
@@ -44,9 +51,8 @@
 
 #ComoFunciona{
     position: absolute;
-    width: 111.84px;
-    height: 17px;
-    left: 531px;
+    height: 14px;
+    left: 580px;
     top: 40px;
 
     font-family: 'Inter';
@@ -60,9 +66,8 @@
 
 #Suporte{
     position: absolute;
-    width: 59.99px;
     height: 14px;
-    left: 670px;
+    left: 740px;
     top: 40px;
 
     font-family: 'Inter';
@@ -76,9 +81,8 @@
 
 #SobreNos{
     position: absolute;
-    width: 145.39px;
-    height: 11px;
-    left: 783px;
+    height: 14px;
+    left: 845px;
     top: 40px;
     
     font-family: 'Inter';
@@ -94,7 +98,7 @@
     position: absolute;
     width: 88px;
     height: 19px;
-    left: 964px;
+    left: 1090px;
     top: 41px;
 
     font-style: normal;
@@ -125,21 +129,18 @@
     position: absolute;
     width: 127px;
     height: 53px;
-    left: 1073px;
+    left: 1190px;
     top: 23px;
     text-decoration: none;
     background: #012169;
     border-radius: 8px;
 }
 
-.logo {
-   /* position: absolute;
-    width: 111px;
-    height: 77px;
-    left: 43px;
-    top: 10px;
+.menu{
+list-style: none;
+}
 
-    background: url(20220427_221713.png); */
+.logo {
     margin-left: 90px;
     margin-top: -12px;
 }
